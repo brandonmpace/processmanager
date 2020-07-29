@@ -21,4 +21,7 @@ Original use case:
 Installation:  
   * pip install processmanager  
   
+Documentation:
+  * [https://processmanager.readthedocs.io](https://processmanager.readthedocs.io)
+  
 Tested for Python >=3.6.5 on Linux (Ubuntu) and Windows 7/10  
