@@ -22,7 +22,7 @@ copyright = '2019-2020, Brandon M. Pace'
 author = 'Brandon M. Pace'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1.0'
+release = '0.1.1'
 
 
 # -- General configuration ---------------------------------------------------

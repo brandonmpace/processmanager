@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="processmanager",
-    version="0.1.0",
+    version="0.1.1",
     author="Brandon M. Pace",
     author_email="brandonmpace@gmail.com",
     description="A multiprocessing process manager for Python programs",
