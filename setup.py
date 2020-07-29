@@ -16,7 +16,10 @@ setuptools.setup(
     install_requires=["freezehelper>=2.0.0", "logcontrol>=0.2.1"],
     platforms=["any"],
     python_requires=">=3.6.5",
-    url="https://github.com/brandonmpace/processmanager",
+    project_urls={
+        "Code and Issues": "https://github.com/brandonmpace/processmanager",
+        "Documentation": "https://processmanager.readthedocs.io"
+    },
     packages=setuptools.find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
